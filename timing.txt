@@ -1,0 +1,19 @@
+start 2026-11-03 00:50:12 CST
+slug flooring-layout-planner
+name 地板逐板排版开料
+kw expand attempt 1 2026-11-03 00:50:12 CST
+kw expand attempt 2 2026-11-03 00:50:30 CST
+kw expand attempt 3 2026-11-03 00:51:17 CST
+kw expand FAILED after 3 tries 2026-11-03 00:52:38 CST
+daily dig start 2026-11-05 09:09:10 CST
+slug flooring-layout-planner
+name 地板逐板排版开料
+plan: box Codex kw → box serp.py → pricing/TrustMRR → box Codex report → pack/Pages
+mac offline; box Codex OK
+
+kw expand start (box Codex) 2026-11-05 09:11:32 CST
+kw expand done (box Codex) 2026-11-05 09:14:21 CST
+serp start 2026-11-05 09:14:21 CST
+serp end 2026-11-05 09:38:38 CST
+report start (box Codex high) 2026-11-05 09:38:43 CST
+report end score=70 2026-11-05 09:41:49 CST
